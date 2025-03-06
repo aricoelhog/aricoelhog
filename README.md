@@ -1,4 +1,6 @@
-## Olá, sou Ariane, Desenvolvedora Full Stack e Mobile
+## Olá, sou Ariane, Desenvolvedora Full Stack!
+
+Seja bem vindo(a) ao meu perfil! :blush:
 
 <div>
   <a href="https://github.com/aricoelhog">
@@ -14,3 +16,9 @@
   <img align="center" alt="Ari-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
 </div>
 
+  ##
+ 
+<div> 
+  <a href = "mailto:arianecoelho029@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/aricoelhog/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>

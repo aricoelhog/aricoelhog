@@ -5,8 +5,8 @@ Seja bem vindo(a) ao meu perfil! :blush:
 <!-- Readme Stats: https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance -->
 <div>
   <a href="https://github.com/aricoelhog">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aricoelhog&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aricoelhog&layout=compact&hide_progress=true&langs_count=168&theme=transparent"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=aricoelhog&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aricoelhog&layout=compact&hide_progress=true&langs_count=168&theme=transparent"/>
 </div>
 
 <!-- Para adicionar novos ícones: https://devicon.dev/ -->
@@ -23,3 +23,8 @@ Seja bem vindo(a) ao meu perfil! :blush:
   <a href = "mailto:arianecoelho029@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/aricoelhog/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+  ##
+
+![Snake animation](https://github.com/aricoelhog/aricoelhog/blob/output/github-contribution-grid-snake.svg)
+
